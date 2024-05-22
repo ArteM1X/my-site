@@ -1,61 +1,60 @@
-# my-site
-# Fitness Website
+# Сайт о фитнесе
 
-Welcome to the Fitness Website repository! This project is a simple yet comprehensive website built with HTML and CSS, designed to showcase fitness programs, tips, and other related content.
+Добро пожаловать в репозиторий сайта о фитнесе! Этот проект представляет собой простой, но всесторонний сайт, построенный с использованием HTML и CSS, предназначенный для демонстрации фитнес-программ, советов и другой связанной информации.
 
-## Table of Contents
+## Содержание
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Folder Structure](#folder-structure)
-- [Contributing](#contributing)
-- [License](#license)
+- [Введение](#введение)
+- [Функции](#функции)
+- [Установка](#установка)
+- [Использование](#использование)
+- [Структура папок](#структура-папок)
+- [Вклад](#вклад)
+- [Лицензия](#лицензия)
 
-## Introduction
+## Введение
 
-The Fitness Website is created to provide users with an engaging and informative experience about fitness and health. The site includes sections on different workout plans, nutrition advice, success stories, and contact information.
+Сайт о фитнесе создан, чтобы предоставить пользователям увлекательный и информативный опыт по теме фитнеса и здоровья. Сайт включает разделы с различными планами тренировок, советами по питанию, историями успеха и контактной информацией.
 
-## Features
+## Функции
 
-- Responsive Design: The website is designed to be fully responsive, ensuring it looks great on all devices, from desktops to mobile phones.
-- Workout Plans: Detailed workout plans for different fitness levels and goals.
-- Nutrition Tips: Valuable nutrition advice to complement fitness routines.
-- Success Stories: Real-life success stories to inspire users.
-- Contact Form: A functional contact form for users to get in touch.
+- Адаптивный дизайн: Сайт разработан таким образом, чтобы быть полностью адаптивным, обеспечивая отличный вид на всех устройствах, от настольных компьютеров до мобильных телефонов.
+- Планы тренировок: Подробные планы тренировок для различных уровней физической подготовки и целей.
+- Советы по питанию: Ценные советы по питанию для дополнения фитнес-режимов.
+- Истории успеха: Реальные истории успеха для вдохновения пользователей.
+- Контактная форма: Функциональная контактная форма для связи с пользователями.
 
-## Installation
+## Установка
 
-To get a local copy up and running follow these simple steps:
+Чтобы получить локальную копию и запустить сайт, выполните следующие простые шаги:
 
-1. Clone the repository:
+1. Клонируйте репозиторий:
 
   
    git clone https://github.com/yourusername/fitness-website.git
    
-2. Navigate to the project directory:
+2. Перейдите в директорию проекта:
 
   
    cd fitness-website
    
-3. Open index.html in your browser:
+3. Откройте index.html в браузере:
 
-   Simply open the index.html file in your preferred web browser to view the site locally.
+   Просто откройте файл index.html в вашем предпочтительном веб-браузере, чтобы просмотреть сайт локально.
 
-## Usage
+## Использование
 
-Once the site is up and running, navigate through the different sections using the navigation bar. The main sections include:
+После запуска сайта переходите по различным разделам, используя навигационную панель. Основные разделы включают:
 
-- Home: Introduction to the website and its purpose.
-- Workout Plans: Various workout plans categorized by fitness goals.
-- Nutrition: Articles and tips on maintaining a healthy diet.
-- Success Stories: Inspirational stories from individuals who achieved their fitness goals.
-- Contact: A form to reach out for more information or inquiries.
+- Главная: Введение в сайт и его назначение.
+- Планы тренировок: Различные планы тренировок, классифицированные по целям фитнеса.
+- Питание: Статьи и советы по поддержанию здорового питания.
+- Истории успеха: Вдохновляющие истории людей, достигших своих фитнес-целей.
+- Контакты: Форма для связи и получения дополнительной информации или запросов.
 
-## Folder Structure
+## Структура папок
 
-The project's folder structure is as follows:
+Структура папок проекта выглядит следующим образом:
 
 fitness-website/
 ├── css/
@@ -69,28 +68,28 @@ fitness-website/
 ├── contact.html
 ├── success.html
 ├── workouts.html
-- css/styles.css: Contains all the styling for the website.
-- images/: Contains images used throughout the site.
-- index.html: The main landing page.
-- about.html: The page with information about the website.
-- contact.html: The contact page with a form.
-- success.html: A page showcasing success stories.
-- workouts.html: The page with various workout plans.
+- css/styles.css: Содержит все стили для сайта.
+- images/: Содержит изображения, используемые на сайте.
+- index.html: Главная страница.
+- about.html: Страница с информацией о сайте.
+- contact.html: Контактная страница с формой.
+- success.html: Страница с историями успеха.
+- workouts.html: Страница с различными планами тренировок.
 
-## Contributing
+## Вклад
 
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+Вклады - это то, что делает сообщество с открытым исходным кодом таким удивительным местом для обучения, вдохновения и создания. Любой ваш вклад будет очень ценен.
 
-1. Fork the Project
-2. Create your Feature Branch (git checkout -b feature/AmazingFeature)
-3. Commit your Changes (git commit -m 'Add some AmazingFeature')
-4. Push to the Branch (git push origin feature/AmazingFeature)
-5. Open a Pull Request
+1. Форкните проект.
+2. Создайте свою ветку для новой функции (git checkout -b feature/AmazingFeature).
+3. Закоммитьте свои изменения (git commit -m 'Add some AmazingFeature').
+4. Отправьте изменения в ветку (git push origin feature/AmazingFeature).
+5. Откройте пулреквест.
 
-## License
+## Лицензия
 
-Distributed under the MIT License. See LICENSE for more information.
+Распространяется под лицензией MIT. См. файл LICENSE для получения дополнительной информации.
 
 ---
 
-Thank you for checking out the Fitness Website! We hope it serves as a valuable resource for your fitness journey.
+Спасибо за внимание к сайту о фитнесе! Надеемся, что он станет ценным ресурсом на вашем пути к фитнесу.
